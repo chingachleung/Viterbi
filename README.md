@@ -1,5 +1,5 @@
 # Viterbi
-Implements the Viterbi algorithm based on the data from the course Information Retrieval lecture 13 at the University of Freiburg, Germany.
+Implements the Viterbi algorithm based on the data from the course Information Retrieval lecture 13 by Professor Hannah Bast at the University of Freiburg, Germany.
 
 ## Observations 
 "Time flies like an arrow"
